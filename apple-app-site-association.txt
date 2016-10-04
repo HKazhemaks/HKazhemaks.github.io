@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "GUD265TGW8.com.iba.hapaglloyd.ent.Hapag-Lloyd-UL",
-        "paths": [
-          "*"
-        ]
+        "paths": ["*"]
       }
     ]
   }
