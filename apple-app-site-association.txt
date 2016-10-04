@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "HV2279S9F7.com.iba.hapaglloyd.ent.Hapag-Lloyd-UL",
+        "appID": "GUD265TGW8.com.iba.hapaglloyd.ent.Hapag-Lloyd-UL",
         "paths": [
           "*"
         ]
