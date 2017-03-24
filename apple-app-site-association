@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "HV2279S9F7.com.iba.hapaglloyd.ent.Hapag-Lloyd-UL",
-        "paths": ["/redirect.html","*/news/*"]
+        "paths": ["/redirect.html","*/news/*","*/tracing-by-container.html?container"]
       }
     ]
   }
